@@ -2,7 +2,7 @@
 
 The datasource consists of two locations.
 
-### Location 1 - Bureau of Meterology as per the below link.
+### Location 1 - Bureau of Meterology
 
 > http://www.bom.gov.au/climate/data/index.shtml
 
