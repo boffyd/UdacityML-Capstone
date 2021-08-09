@@ -15,19 +15,15 @@
 
 > The datasets utilised are the output, predicted data which is sourced from data.gov.au, and additionally historical information will be used from the Bureau of Meteorology.  The information from data.gov.au is a compilation of the target variable (snow depth) and the information from the Bureau of Meteorology is considered to be the independent variables.  There are several that can be chosen, but for the purposes of this exercise its proposed to use Maximum Temperature and Rainfall. 
 
-Location 1 - Bureau of Meterology
-
+> Location 1 - Bureau of Meterology
 http://www.bom.gov.au/climate/data/index.shtml
-
 This will be accessed individually and CSV files downloaded for each year for each of the parameters, maximum temperature and rainfall.
 
-Location 2 - Victorian Alpine Resorts - Daily Snow Depth Records Falls Creek
-
+> Location 2 - Victorian Alpine Resorts - Daily Snow Depth Records Falls Creek
 https://arcc.vic.gov.au/wp-content/uploads/2021/06/Data-2020-Daily-Snow-Depth-Records_Falls-Creek.csv
-
 This will be accessed directly through webscraping.
 
-They will be joined by combined date to create a dataset with only a several independent variables.  Looking at the preliminary data, there will be some manipulation to combine these into a suitable output.
+> They will be joined by combined date to create a dataset with only a several independent variables.  Looking at the preliminary data, there will be some manipulation to combine these into a suitable output.
 
 #### Solution Statement
 
