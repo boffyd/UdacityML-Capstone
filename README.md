@@ -5,7 +5,7 @@
 
 #### Domain Background
 
-The domain proposed for this assignment is to explore natural snow depths within the Australian Alpine region.  The intent is to provide an interface that that will use the current (i.e. todays) weather to predict the natural snowfall.  To simplify the roll out, Falls Creek, Victoria will be used.
+> The domain proposed for this assignment is to explore natural snow depths within the Australian Alpine region.  The intent is to provide an interface that that will use the current (i.e. todays) weather to predict the natural snowfall.  To simplify the roll out, Falls Creek, Victoria will be used.
 
 #### Problem Statement
 
