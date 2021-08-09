@@ -8,7 +8,7 @@ The datasource consists of two locations.
 
 This was accessed individually and CSV files downloaded for each year for each of the parameters ,maximum temperature and rainfall.
 
-### Location 2 - Bureau of Meterology as per the below link.
+### Location 2 - Victorian Alpine Resorts - Daily Snow Depth Records Falls Creek
 
 > 'https://arcc.vic.gov.au/wp-content/uploads/2021/06/Data-2020-Daily-Snow-Depth-Records_Falls-Creek.csv'
 
