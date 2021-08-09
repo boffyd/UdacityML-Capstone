@@ -45,6 +45,6 @@ Its proposed that because this is a Regression exercise, that RMSE will be used 
 Student summarizes a theoretical workflow for approaching a solution given the problem. Discussion is made as to what strategies may be employed, what analysis of the data might be required, or which algorithms will be considered. The workflow and discussion provided align with the qualities of the project. Small visualizations, pseudocode, or diagrams are encouraged but not required.
 
 The workflow, will consist of downloading the data, cleaning, transforming and rendering it into a format that is suitable for use.  Its proposed not to use Time Series models such as through SAGEMAKER DEEPAR which is a recurrent neural network.
-![image](https://user-images.githubusercontent.com/72591620/128699768-0369c460-514d-4c15-8f4c-0a3676771de8.png)
+
 
 
