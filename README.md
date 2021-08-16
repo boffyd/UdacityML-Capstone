@@ -5,7 +5,11 @@
 
 #### Domain Background
 
-> The domain proposed for this assignment is to explore natural snow depths within the Australian Alpine region.  The intent is to provide an interface that that will use the current (i.e. todays) weather to predict the natural snowfall.  To simplify the roll out, Falls Creek, Victoria will be used.
+> Predicting the level of snow within a ski resort during winter would allow pundits to monitor the season based on current levels to better plan their trip.  Currently there are only short term snow fall predictions and weather predictions put out by the weather bureau.
+As such, its proposed for this assignment is to explore natural snow depths within the Australian Alpine region.  Ultimately, the intent would be to provide an interface that that will use the current seasons results to predict the natural snowfall levels for  Falls Creek, Victoria will be used.
+
+![image](https://user-images.githubusercontent.com/72591620/129546371-02f1ba8b-e08a-4d99-82d5-a4a192bb45d1.png)
+
 
 #### Problem Statement
 
