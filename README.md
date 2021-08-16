@@ -46,19 +46,31 @@ Location - Victorian Alpine Resorts - Daily Snow Depth Records Falls Creek
 
 #### Project Design
 
+The following files are used in order 
+DEEPAR TIMESERIES DATA GRAB.Rmd
+SnowForecast-Datadownload.ipynb
+
 > The process will consist of the following process.
 1.	Download the dataset 
- > (Capstone Project - DEEPAR TIMESERIES DATA GRAB.Rmd) 
-3.	Check data for consistency and missing values, treat accordingly 
-4.	Determine the seasonal range of the dataset
-5.	Determine baseline model – Average Daily Values across all years
-6.	Create Test and Train Datasets
-7.	Convert datasets to Json Format as required by DEEPAR
-8.	Upload to AWS S3
-9.	Train the DEEPAR Estimator
-10.	Test the Estimator, and compare against baseline model.
-11.	Deploy the model.
-
+ > Capstone Project - DEEPAR TIMESERIES DATA GRAB.Rmd, SnowForecast-Datadownload.ipynb
+2.	Check data for consistency and missing values, treat accordingly 
+ > SnowForecast-Datadownload.ipynb, 
+3.	Determine the seasonal range of the dataset
+ > SnowForecast-Datadownload.ipynb
+4.	Determine baseline model – Average Daily Values across all years
+ > SnowForecast-Datadownload.ipynb
+5.	Create Test and Train Datasets
+ > 
+6.	Convert datasets to Json Format as required by DEEPAR
+ >
+7.	Upload to AWS S3
+ >
+8.	Train the DEEPAR Estimator
+ >
+9.	Test the Estimator, and compare against baseline model.
+ >
+10.	Deploy the model.
+ >
 
 
 
