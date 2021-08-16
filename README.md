@@ -47,10 +47,13 @@ Location - Victorian Alpine Resorts - Daily Snow Depth Records Falls Creek
 #### Project Design
 
 The following files are used in order 
-DEEPAR TIMESERIES DATA GRAB.Rmd
-SnowForecast-Datadownload.ipynb
+Preliminary data extract and wrangling - R
+> DEEPAR TIMESERIES DATA GRAB.Rmd
 
-> The process will consist of the following process.
+SnowForecast-Datadownload.ipynb
+FallsCreekSnowForecast.ipynb
+
+
 1.	Download the dataset 
  > Capstone Project - DEEPAR TIMESERIES DATA GRAB.Rmd, SnowForecast-Datadownload.ipynb
 2.	Check data for consistency and missing values, treat accordingly 
