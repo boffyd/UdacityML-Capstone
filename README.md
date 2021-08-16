@@ -18,7 +18,8 @@ Its proposed to use AWS SAGEMAKER DEEPAR for the process.  Its set up for learni
 
 > The datasets utilised are the output, predicted data which is sourced from data.gov.au, and additionally historical information will be used from the Bureau of Meteorology.  The information from data.gov.au is a compilation of the target variable (snow depth) and the information from the Bureau of Meteorology is considered to be the independent variables.  There are several that can be chosen, but for the purposes of this exercise its proposed to use Maximum Temperature and Rainfall. 
 Location - Victorian Alpine Resorts - Daily Snow Depth Records Falls Creek
-https://arcc.vic.gov.au/wp-content/uploads/2021/06/Data-2020-Daily-Snow-Depth-Records_Falls-Creek.csv
+
+> https://arcc.vic.gov.au/wp-content/uploads/2021/06/Data-2020-Daily-Snow-Depth-Records_Falls-Creek.csv
 
 
 #### Solution Statement
@@ -46,16 +47,17 @@ https://arcc.vic.gov.au/wp-content/uploads/2021/06/Data-2020-Daily-Snow-Depth-Re
 #### Project Design
 
 > The process will consist of the following process.
-1.	Download the dataset
-2.	Check data for consistency and missing values, treat accordingly
-3.	Determine the seasonal range of the dataset
-4.	Determine baseline model – Average Daily Values across all years
-5.	Create Test and Train Datasets
-6.	Convert datasets to Json Format as required by DEEPAR
-7.	Upload to AWS S3
-8.	Train the DEEPAR Estimator
-9.	Test the Estimator, and compare against baseline model.
-10.	Deploy the model.
+1.	Download the dataset 
+ > (Capstone Project - DEEPAR TIMESERIES DATA GRAB.Rmd) 
+3.	Check data for consistency and missing values, treat accordingly 
+4.	Determine the seasonal range of the dataset
+5.	Determine baseline model – Average Daily Values across all years
+6.	Create Test and Train Datasets
+7.	Convert datasets to Json Format as required by DEEPAR
+8.	Upload to AWS S3
+9.	Train the DEEPAR Estimator
+10.	Test the Estimator, and compare against baseline model.
+11.	Deploy the model.
 
 
 
