@@ -47,14 +47,18 @@ Location - Victorian Alpine Resorts - Daily Snow Depth Records Falls Creek
 #### Project Design
 
 The following files are used in order 
-Preliminary data extract and wrangling - R.  This is the first script, however is not needed to complete the remaining scripts. Download csvs are uploaded to github for use later
+
 > DEEPAR TIMESERIES DATA GRAB.Rmd
 
+Preliminary data extract and wrangling - R.  This is the first script, however is not needed to complete the remaining scripts. Download csvs are uploaded to github for use later
+
 > SnowForecast-Datadownload.ipynb
+
 Github CSVs from the above were bought into python for wrangling, imputation preliminary analysis and also defining the benchmark model.  This is the second script, however is not needed to complete the remaining scripts. Download csvs are uploaded to github for use later
 
 > FallsCreekSnowForecast.ipynb
-Final data files were imported into this and the modeling and treatment and deployment were completed in this file.
+
+Final data files were imported into this and the modeling and treatment and deployment were completed in this file.  This has all necessary libraries included including numpy, pandas, matplotlib, sklearn metrics, json, os, boto3, sagemaker as well as vairous custom functions to apply software engineering learnings to speed up the work flow for repetitive tasks.
 
 1.	Download the dataset 
 2.	Check data for consistency and missing values, treat accordingly 
