@@ -71,7 +71,10 @@ Final data files were imported into this and the modeling and treatment and depl
 9.	Test the Estimator, and compare against baseline model.
 10.	Deploy the model.
 
+Proposal
+> proposal.pdf
+
 Final report
-> Machine Learning Engineer Nanodegree - 1.0
+> Machine Learning Engineer Nanodegree - 1.0.pdf
 
 
